@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:myfinal/Screens/ContainerStyleScreen.dart';
-import 'package:myfinal/Screens/ImagesScreen.dart';
-import 'package:myfinal/Screens/TextStyleScreen.dart';
+import 'package:myFinal/Screens/ContainerStyleScreen.dart';
+import 'package:myFinal/Screens/ImagesScreen.dart';
+import 'package:myFinal/Screens/TextStyleScreen.dart';
 
 import 'Screens/ColumnScreen.dart';
 import 'Screens/ContainerScreen.dart';
