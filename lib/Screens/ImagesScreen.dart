@@ -21,7 +21,7 @@ class _ImagesScreenState extends State<ImagesScreen> {
       body: Column(
         children: [
           Image(
-            image: AssetImage("assets/images/Suz2.jpeg"),
+            image: AssetImage("assets/images/search.png"),
             width: 300,
             height: 300,
             fit: BoxFit.fitWidth,
